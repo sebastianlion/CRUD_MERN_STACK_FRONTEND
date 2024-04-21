@@ -1,0 +1,26 @@
+.table__list {
+	list-style-type: none;
+	padding: 0;
+}
+
+.table__item {
+	margin: 5px 0;
+	/* background-color: gray; */
+}
+
+.table__button {
+	margin: 2px 2px;
+	border-radius: 5px;
+	padding: 10px;
+	color: white;
+	cursor: pointer;
+	display: inline-block;
+}
+
+.table__button--update {
+	background-color: green;
+}
+
+.table__button--delete {
+	background-color: red;
+}

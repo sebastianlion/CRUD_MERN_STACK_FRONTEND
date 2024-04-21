@@ -1,0 +1,13 @@
+.form__label,
+.form__input,
+.form__button {
+	margin: 8px;
+}
+
+.form__button {
+	border-radius: 5px;
+	padding: 10px;
+	background-color: rgb(33, 33, 255);
+	color: white;
+    cursor: pointer;
+}
