@@ -1,3 +1,7 @@
+# CRUD_MERN_STACK_FRONTEND
+
+It is a crud (create, read, update, delete) using the MERN (MongoDB, Express, React, Nodejs) stack. The frontend part
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
